@@ -8,7 +8,7 @@ use App\User;
 use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
-use illuminate\Support\Str; // tambahkan
+use illuminate\Support\Str; // tambahkan Ini
 
 class RegisterController extends Controller
 {
